@@ -1,6 +1,6 @@
 # tro87722.github.io
 Settlement Calculator by State
-<!DOCTYPE html>
+<!DOCTYPE index.html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
